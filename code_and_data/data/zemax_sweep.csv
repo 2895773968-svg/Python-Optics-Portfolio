@@ -1,0 +1,6 @@
+﻿radius_mm,mtf_at_target_freq,freq_lp_per_mm,mtf_mean_0_to_max,status,backend,elapsed_s,note
+49.0,0.7252,30.0,0.7607,ok,mock,0.0,
+49.5,0.7921,30.0,0.8195,ok,mock,0.0,
+50.0,0.8697,30.0,0.8776,ok,mock,0.0,
+50.5,0.8463,30.0,0.8665,ok,mock,0.0,
+51.0,0.7817,30.0,0.8104,ok,mock,0.0,
