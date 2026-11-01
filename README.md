@@ -13,7 +13,7 @@ A pure Python optical system modeling, automated optimization, and aberration co
 
 *(Note: The Zemax optimization module uses mock data due to the lack of a commercial license. All ray-tracing and aberration analyses are based on real physical calculations using the `rayoptics` Python library.)*
 
-📄 **[Download the Full Project Report (PDF)](Optics_Portfolio_Report.pdf.pdf)** 
+📄 **[Download the Full Project Report (PDF)](https://2895773968-svg.github.io/Python-Optics-Portfolio/Optics_Portfolio_Report.pdf.pdf)** 
 
 ---
 
@@ -28,4 +28,4 @@ A pure Python optical system modeling, automated optimization, and aberration co
 
 *(注：Zemax 自动化寻优部分因无商业授权采用 Mock 数据；所有光线追迹、球差/色差/APO及离轴像差分析，均基于 Python 开源库 `rayoptics` 进行真实物理计算。)*
 
-📄 **[点击下载完整项目报告 (PDF)](Optics_Portfolio_Report.pdf.pdf)**
+📄 **[点击下载完整项目报告 (PDF)](https://2895773968-svg.github.io/Python-Optics-Portfolio/Optics_Portfolio_Report.pdf.pdf)**
